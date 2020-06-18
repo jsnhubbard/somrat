@@ -1,7 +1,7 @@
 baseURL = "https://jsnhubbard.netlify.app"
-disableLanguages = []
+disableLanguages = ["Fr"]
 theme = "somrat"
-title = "Somrat | Hugo Portfolio Template"
+title = "jsnhubbard | educator"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
