@@ -172,12 +172,11 @@ testimonial:
     designation: Teacher Success Manager at Book Creator
     content: When I think of a list of the most influential educators in the state
       of Ohio, Jason's name always appears at the top.
-  - name: Jessica Jones
+  - name: Mike Ransford
     image: images/clients/client3.jpg
-    designation: CEO, RANDOM COMPANY
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-      omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error
-      dignissimos in iusto.
+    designation: STEAM Specialist, Springfield Schools
+    content: Jason's depth of knowledge and enthusiasm for technology and learning
+      elevates everyone around him. He is my "go to" person for inspiration and ideas.
 funfacts:
   enable: true
   funfacts_list:
