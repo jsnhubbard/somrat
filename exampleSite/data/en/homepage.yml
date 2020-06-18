@@ -182,9 +182,9 @@ testimonial:
 funfacts:
   enable: true
   funfacts_list:
-  - name: HANDS TO WORK
+  - name: CHILDREN AT SCHOOL
     image: images/icons/works.png
-    count: "100"
+    count: "847"
   - name: HAPPY CLIENT
     image: images/icons/happy.png
     count: "200"
