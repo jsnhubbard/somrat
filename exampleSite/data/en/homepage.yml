@@ -63,12 +63,12 @@ skill:
   skill_list:
   - name: Coding/Making
     parcentage: 75%
-  - name: Working with People
-    parcentage: 98%
   - name: Design Thinking
     parcentage: 85%
-  - name: Wordpress
-    parcentage: 70%
+  - name: Working with People
+    parcentage: 98%
+  - name: Game-based Learning/Gamification
+    parcentage: 60%
 service:
   enable: true
   title: SERVICES
