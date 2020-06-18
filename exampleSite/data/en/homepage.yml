@@ -63,8 +63,8 @@ skill:
   skill_list:
   - name: Coding
     parcentage: 65%
-  - name: Graphic Design
-    parcentage: 85%
+  - name: Working with People
+    parcentage: 98%
   - name: Database Management
     parcentage: 90%
   - name: Wordpress
