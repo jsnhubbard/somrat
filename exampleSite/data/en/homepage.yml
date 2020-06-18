@@ -188,9 +188,9 @@ funfacts:
   - name: CHILDREN AT HOME
     image: images/icons/happy.png
     count: "7"
-  - name: FINISHED PROJECT
+  - name: BOOKS AUTHORED
     image: images/icons/project.png
-    count: "250"
+    count: "2"
   - name: CUPS OF COFFEE
     image: images/icons/coffee.png
     count: "150"
