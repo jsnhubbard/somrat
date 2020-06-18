@@ -61,8 +61,8 @@ skill:
   enable: true
   title: SKILL
   skill_list:
-  - name: Web Development
-    parcentage: 98%
+  - name: Coding
+    parcentage: 65%
   - name: Graphic Design
     parcentage: 85%
   - name: Database Management
