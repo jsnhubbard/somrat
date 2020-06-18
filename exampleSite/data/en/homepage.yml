@@ -50,11 +50,13 @@ experience:
       -Facilitate The Digital Student Course for educators and administrators
 
       -Centralized focus on growth mindset, student ownership in learning, and blended/tech-integrated learning approaches
-  - name: Database Manager
-    company: Polytechnic
-    duration: 2014-2018
-    content: Database management is among the fundamental processes in the software
-      field of computing. I know MS Access very well.
+  - name: STEM/Classroom teacher
+    company: Woodland and Frank Elementary Schools (Perrysburg,OH)
+    duration: 2003-2017
+    content: |-
+      -Helped pioneer elementary STEM program in K-5 from 2012-2017
+
+      -Instructed 4th and 5th grade in Math/Science/ELA from 2003-2012
 skill:
   enable: true
   title: SKILL
