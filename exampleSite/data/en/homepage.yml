@@ -193,7 +193,7 @@ funfacts:
     count: "2"
   - name: CUPS OF COFFEE
     image: images/icons/coffee.png
-    count: "150"
+    count: "1596"
 contact:
   enable: true
   title: SAY HELLO!
