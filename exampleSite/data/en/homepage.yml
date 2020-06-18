@@ -161,12 +161,12 @@ testimonial:
   enable: true
   title: TESTIMONIALS
   testimonial_slider:
-  - name: Micheal Clark
+  - name: Connie Liu
     image: images/clients/client1.jpg
-    designation: CEO, RANDOM COMPANY
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-      omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error
-      dignissimos in iusto.
+    designation: CEO Project Invent and Forbes 30 Under 30
+    content: Jason is that unique blend of passion, innovation, and inspiration that
+      makes him one of the best educators I’ve ever met. I only wish every student
+      could experience the magic that is being in Jason’s class!
   - name: Peter Parker
     image: images/clients/client2.jpg
     designation: CEO, RANDOM COMPANY
