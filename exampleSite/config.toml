@@ -41,9 +41,9 @@ URL = "#contact"
 name = "Contact"
 weight = 6
 [params]
-author = "somrat"
-contact_form_action = ""
-description = "This is meta description"
+author = "Jason Hubbard"
+contact_form_action = "mailto:jsnhubbard@gmail.com"
+description = "A description goes here. Well, it's supposed to anyway."
 google_analitycs_id = ""
 logo_dark = "images/logo-dark.png"
 logo_light = "images/logo.png"
