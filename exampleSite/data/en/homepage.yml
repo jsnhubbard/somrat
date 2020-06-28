@@ -162,7 +162,7 @@ testimonial:
   title: TESTIMONIALS
   testimonial_slider:
   - name: Connie Liu
-    image: images/clients/client1.jpg
+    image: "/images/connie.jpg"
     designation: CEO Project Invent and Forbes 30 Under 30
     content: Jason is that unique blend of passion, innovation, and inspiration that
       makes him one of the best educators I’ve ever met. I only wish every student
