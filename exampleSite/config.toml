@@ -83,17 +83,17 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
-icon = "fa-facebook-f"
-link = "https://www.facebook.com/people/Jason-Hubbard/100010177753803"
-[[params.social]]
 icon = "fa-twitter"
 link = "https://twitter.com/somrat_37"
+[[params.social]]
+icon = "fa-linkedin"
+link = "https://www.linkedin.com/in/jason-hubbard-11063615/"
+[[params.social]]
+icon = "fa-facebook-f"
+link = "https://www.facebook.com/people/Jason-Hubbard/100010177753803"
 [[params.social]]
 icon = "fa-instagram"
 link = "https://www.instagram.com/jsnhubbard/"
 [[params.social]]
 icon = "fa-github"
 link = "https://github.com/jsnhubbard"
-[[params.social]]
-icon = "fa-linkedin"
-link = "https://www.linkedin.com/in/jason-hubbard-11063615/"
