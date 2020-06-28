@@ -173,7 +173,7 @@ testimonial:
     content: When I think of a list of the most influential educators in the state
       of Ohio, Jason's name always appears at the top.
   - name: Mike Ransford
-    image: images/clients/client3.jpg
+    image: "/images/mike.jpg"
     designation: STEAM Specialist, Springfield Schools
     content: Jason's depth of knowledge and enthusiasm for technology and learning
       elevates everyone around him. He is my "go to" person for inspiration and ideas.
