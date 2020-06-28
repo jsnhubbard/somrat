@@ -168,7 +168,7 @@ testimonial:
       makes him one of the best educators I’ve ever met. I only wish every student
       could experience the magic that is being in Jason’s class!
   - name: Jon Smith
-    image: images/clients/client2.jpg
+    image: "/images/jon.png"
     designation: Teacher Success Manager at Book Creator
     content: When I think of a list of the most influential educators in the state
       of Ohio, Jason's name always appears at the top.
