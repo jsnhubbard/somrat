@@ -1,7 +1,7 @@
 baseURL = "https://jsnhubbard.netlify.app"
 disableLanguages = ["Fr"]
 theme = "somrat"
-title = "jsnhubbard | educator"
+title = "jsnhubbard | EDU"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
@@ -42,7 +42,7 @@ name = "Contact"
 weight = 6
 [params]
 author = "Jason Hubbard"
-contact_form_action = "mailto:jsnhubbard@gmail.com"
+contact_form_action = ""
 description = "A description goes here. Well, it's supposed to anyway."
 google_analitycs_id = ""
 logo_dark = "images/logo-dark.png"
