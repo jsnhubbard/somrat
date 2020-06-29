@@ -114,7 +114,7 @@ portfolio:
     date: Feb 2018
     category: Web Development
   - name: Project <br> Title
-    image: images/portfolio/item5.jpg
+    image: "/images/img_7817.jpg"
     date: Feb 2018
     category: Web Development
   - name: Project <br> Title
