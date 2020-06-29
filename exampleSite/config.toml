@@ -46,7 +46,7 @@ contact_form_action = "<form action=\"https://formspree.io/xjvaepal\" method=\"P
 description = "A description goes here. Well, it's supposed to anyway."
 google_analitycs_id = ""
 logo_dark = "/images/noun_empathy_688996.png"
-logo_light = "/images/noun_empathy_688996-1.png"
+logo_light = "/images/noun_success_2319782-1.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
