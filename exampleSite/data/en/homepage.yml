@@ -97,10 +97,11 @@ portfolio:
   enable: true
   title: PORTFOLIO
   portfolio_list:
-  - name: Project <br> Invent
+  - name: Infy <br> Pathfinders
     image: "/images/screen-shot-2019-11-15-at-12-19-21-pm.png"
     date: ''
-    category: Web Development
+    category:
+    - Project Invent
   - name: Project <br> Title
     image: "/images/img_7306.jpg"
     date: Feb 2018
