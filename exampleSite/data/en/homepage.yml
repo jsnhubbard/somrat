@@ -141,22 +141,6 @@ portfolio:
     image: "/images/img_7849-copy.JPG"
     date: Feb 2018
     category: Database
-  - name: Project <br> Title
-    image: images/portfolio/item12.jpg
-    date: Feb 2018
-    category: Graphics
-  - name: Project <br> Title
-    image: images/portfolio/item13.jpg
-    date: Feb 2018
-    category: Graphics
-  - name: Project <br> Title
-    image: images/portfolio/item14.jpg
-    date: Feb 2018
-    category: Graphics
-  - name: Project <br> Title
-    image: images/portfolio/item15.jpg
-    date: Feb 2018
-    category: Graphics
 testimonial:
   enable: true
   title: TESTIMONIALS
