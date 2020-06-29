@@ -94,7 +94,7 @@ call_to_action:
     label: SAY HELLO!
     link: "#contact"
 portfolio:
-  enable: false
+  enable: true
   title: PORTFOLIO
   portfolio_list:
   - name: Project <br> Title
