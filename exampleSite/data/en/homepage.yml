@@ -102,10 +102,11 @@ portfolio:
     date: ''
     category:
     - Project Invent
-  - name: Project <br> Title
+  - name: Team <br> Building
     image: "/images/img_7306.jpg"
     date: Feb 2018
-    category: Web Development
+    category:
+    - HPI
   - name: Project <br> Title
     image: "/images/img_7896.jpg"
     date: Feb 2018
