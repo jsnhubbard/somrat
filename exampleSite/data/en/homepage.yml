@@ -126,7 +126,7 @@ portfolio:
     date: Feb 2018
     category: Graphics
   - name: Project <br> Title
-    image: images/portfolio/item8.jpg
+    image: "/images/img_0036.jpg"
     date: Feb 2018
     category: Graphics
   - name: Project <br> Title
