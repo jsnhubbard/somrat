@@ -42,7 +42,7 @@ name = "Contact"
 weight = 6
 [params]
 author = "Jason Hubbard"
-contact_form_action = ""
+contact_form_action = "<form action=\"https://formspree.io/xjvaepal\" method=\"POST\">   <input type=\"text\" name=\"name\">   <input type=\"email\" name=\"_replyto\">   <input type=\"submit\" value=\"Send\"> </form>"
 description = "A description goes here. Well, it's supposed to anyway."
 google_analitycs_id = ""
 logo_dark = "/images/noun_empathy_688996.png"
