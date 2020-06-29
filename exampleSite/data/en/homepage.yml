@@ -130,7 +130,7 @@ portfolio:
     date: Feb 2018
     category: Graphics
   - name: Project <br> Title
-    image: images/portfolio/item9.jpg
+    image: "/images/img_7931.jpg"
     date: Feb 2018
     category: Database
   - name: Project <br> Title
