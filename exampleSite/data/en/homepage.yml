@@ -110,7 +110,7 @@ portfolio:
     date: Feb 2018
     category: Web Development
   - name: Project <br> Title
-    image: images/portfolio/item4.jpg
+    image: "/images/img_7807-copy.jpg"
     date: Feb 2018
     category: Web Development
   - name: Project <br> Title
