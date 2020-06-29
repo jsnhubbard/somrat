@@ -98,7 +98,7 @@ portfolio:
   title: PORTFOLIO
   portfolio_list:
   - name: Project <br> Title
-    image: images/portfolio/item1.jpg
+    image: "/images/screen-shot-2019-11-15-at-12-19-21-pm.png"
     date: Feb 2018
     category: Web Development
   - name: Project <br> Title
