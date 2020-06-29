@@ -16,9 +16,9 @@ hero:
     link: "#contact"
 fullscreen_nav:
   enable: true
-  bg_image: images/backgrounds/full-nav-bg.jpg
-  first_name: MacGyver
-  last_name: SOMRAT
+  bg_image: "/images/screen-shot-2017-08-13-at-5-58-15-pm.png"
+  first_name: Jason
+  last_name: HUBBARD
 about:
   enable: true
   image: "/images/img_7807-copy.jpg"
