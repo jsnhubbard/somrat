@@ -97,9 +97,9 @@ portfolio:
   enable: true
   title: PORTFOLIO
   portfolio_list:
-  - name: Project <br> Title
+  - name: Project <br> Invent
     image: "/images/screen-shot-2019-11-15-at-12-19-21-pm.png"
-    date: Feb 2018
+    date: ''
     category: Web Development
   - name: Project <br> Title
     image: "/images/img_7306.jpg"
