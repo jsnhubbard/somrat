@@ -71,7 +71,7 @@ skill:
     parcentage: 60%
 service:
   enable: true
-  title: SERVICES
+  title: STUFF I DO
   service_list:
   - name: Web Development
     image: images/icons/web-development.png
