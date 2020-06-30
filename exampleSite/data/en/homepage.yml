@@ -75,7 +75,7 @@ service:
   service_list:
   - name: Makerspace Design and Planning
     image: images/icons/web-development.png
-  - name: Graphic Design
+  - name: Student/Staff PD
     image: images/icons/graphic-design.png
   - name: Database Management
     image: images/icons/dbms.png
