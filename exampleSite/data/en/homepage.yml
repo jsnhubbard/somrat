@@ -79,7 +79,7 @@ service:
     image: "/images/noun_connection_2436419.svg"
   - name: Design Thinking Workshops
     image: "/images/noun_creative_1909993.svg"
-  - name: Digital/Blended Learning Training
+  - name: Digital/Blended Learning
     image: "/images/noun_flipped-classroom_27469.svg"
   - name: Curriculum Design
     image: "/images/noun_curriculum-design_3159209.svg"
