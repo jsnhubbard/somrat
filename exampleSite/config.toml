@@ -45,7 +45,7 @@ author = "Jason Hubbard"
 contact_form_action = "https://formspree.io/jhubbard@perrysburgschools.net"
 description = "A description goes here. Well, it's supposed to anyway."
 google_analitycs_id = ""
-logo_dark = "/images/noun_success_2319782.png"
+logo_dark = "/images/noun_problem-solving_1681604-1.png"
 logo_light = "/images/noun_success_2319782-1.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
