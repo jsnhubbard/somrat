@@ -81,8 +81,8 @@ service:
     image: images/icons/dbms.png
   - name: Digital/Blended Learning Training
     image: images/icons/software-development.png
-  - name: Curriculum Development
-    image: images/icons/marketing.png
+  - name: Curriculum Design
+    image: "/images/noun_maker_18157.svg"
   - name: Digital/Analog Tech Integration
     image: "/images/noun_maker_18157.svg"
 call_to_action:
