@@ -77,7 +77,7 @@ service:
     image: images/icons/web-development.png
   - name: Student/Staff PD
     image: images/icons/graphic-design.png
-  - name: Database Management
+  - name: Design Thinking Workshops
     image: images/icons/dbms.png
   - name: Software Development
     image: images/icons/software-development.png
