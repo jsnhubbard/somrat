@@ -80,7 +80,7 @@ service:
   - name: Design Thinking Workshops
     image: "/images/noun_creative_1909993.svg"
   - name: Digital/Blended Learning Training
-    image: images/icons/software-development.png
+    image: "/images/noun_flipped-classroom_27469.svg"
   - name: Curriculum Design
     image: "/images/noun_curriculum-design_3159209.svg"
   - name: Digital/Analog Tech Integration
