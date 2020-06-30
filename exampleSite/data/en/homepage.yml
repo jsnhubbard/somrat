@@ -73,7 +73,7 @@ service:
   enable: true
   title: STUFF I DO
   service_list:
-  - name: Makerspace Design and Planning
+  - name: Makerspace Design/Planning
     image: images/icons/web-development.png
   - name: Student/Staff PD
     image: images/icons/graphic-design.png
