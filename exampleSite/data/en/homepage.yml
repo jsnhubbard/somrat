@@ -76,7 +76,7 @@ service:
   - name: Makerspace Design/Planning
     image: "/images/noun_3d-printer_2090701.svg"
   - name: Student/Staff PD
-    image: images/icons/graphic-design.png
+    image: "/images/noun_connection_2436419.svg"
   - name: Design Thinking Workshops
     image: "/images/noun_creative_1909993.svg"
   - name: Digital/Blended Learning Training
