@@ -79,9 +79,9 @@ service:
     image: images/icons/graphic-design.png
   - name: Design Thinking Workshops
     image: images/icons/dbms.png
-  - name: Software Development
+  - name: Digital/Blended Learning Training
     image: images/icons/software-development.png
-  - name: Digital Marketing
+  - name: Curriculum Development
     image: images/icons/marketing.png
   - name: Mobile App Development
     image: images/icons/mobile-app.png
