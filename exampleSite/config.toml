@@ -17,29 +17,25 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "#home"
-name = "Home"
-weight = 1
+URL = "#contact"
+name = "Contact"
+weight = 5
+[[menu.main]]
+URL = "#testimonial"
+name = "Testimonials"
+weight = 4
+[[menu.main]]
+URL = "#service"
+name = "Stuff"
+weight = 3
 [[menu.main]]
 URL = "#about"
 name = "About me"
 weight = 2
 [[menu.main]]
-URL = "#service"
-name = "Service"
-weight = 3
-[[menu.main]]
-URL = "#portfolio"
-name = "Portfolio"
-weight = 4
-[[menu.main]]
-URL = "#testimonial"
-name = "Testimonial"
-weight = 5
-[[menu.main]]
-URL = "#contact"
-name = "Contact"
-weight = 6
+URL = "#home"
+name = "Home"
+weight = 1
 [params]
 author = "Jason Hubbard"
 contact_form_action = "https://formspree.io/jhubbard@perrysburgschools.net"
