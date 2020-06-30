@@ -78,7 +78,7 @@ service:
   - name: Student/Staff PD
     image: images/icons/graphic-design.png
   - name: Design Thinking Workshops
-    image: images/icons/dbms.png
+    image: "/images/noun_creative_1909993.svg"
   - name: Digital/Blended Learning Training
     image: images/icons/software-development.png
   - name: Curriculum Design
