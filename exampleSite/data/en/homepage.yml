@@ -88,10 +88,10 @@ service:
 call_to_action:
   enable: true
   bg_image: images/backgrounds/need-service.jpg
-  title: NEED A SERVICE?
+  title: Have Questions?
   button:
     enable: true
-    label: SAY HELLO!
+    label: REACH OUT!
     link: "#contact"
 portfolio:
   enable: false
