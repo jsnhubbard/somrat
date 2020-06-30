@@ -84,7 +84,7 @@ service:
   - name: Curriculum Development
     image: images/icons/marketing.png
   - name: Digital/Analog Tech Integration
-    image: images/icons/mobile-app.png
+    image: "/images/noun_maker_18157.svg"
 call_to_action:
   enable: true
   bg_image: images/backgrounds/need-service.jpg
