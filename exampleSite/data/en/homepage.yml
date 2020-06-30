@@ -83,7 +83,7 @@ service:
     image: "/images/noun_flipped-classroom_27469.svg"
   - name: Curriculum Design
     image: "/images/noun_curriculum-design_3159209.svg"
-  - name: Digital/Analog Tech Integration
+  - name: Digital/Analog Integration
     image: "/images/noun_maker_18157.svg"
 call_to_action:
   enable: true
