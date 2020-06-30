@@ -12,7 +12,7 @@ hero:
   - "/images/screen-shot-2020-05-27-at-3-05-47-pm.png"
   button:
     enable: true
-    label: HIRE ME
+    label: CONTACT ME
     link: "#contact"
 fullscreen_nav:
   enable: true
