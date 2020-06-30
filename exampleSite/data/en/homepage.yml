@@ -83,7 +83,7 @@ service:
     image: images/icons/software-development.png
   - name: Curriculum Development
     image: images/icons/marketing.png
-  - name: Mobile App Development
+  - name: Digital/Analog Tech Integration
     image: images/icons/mobile-app.png
 call_to_action:
   enable: true
