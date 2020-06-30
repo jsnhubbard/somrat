@@ -30,7 +30,7 @@ about:
     do just that.\U0001F60A"
   button:
     enable: true
-    label: DOWNLOAD MY CV
+    label: DOWNLOAD MY RÉSUMÉ
     link: "#"
 experience:
   enable: true
